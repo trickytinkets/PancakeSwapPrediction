@@ -1,4 +1,4 @@
-# **🥞 PancakeSwap Prediction v4.0 new Update 01/06/22 🥞**
+# **🥞 PancakeSwap Prediction v4.0 June 2022 Update 🥞**
 
 
 ![PancakeSwap-Logo-Big](logo.jpeg)
