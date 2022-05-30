@@ -1,4 +1,4 @@
-# **🥞 PancakeSwap Prediction v3.0 new Update 🥞**
+# **🥞 PancakeSwap Prediction v4.0 new Update 🥞**
 
 
 ![PancakeSwap-Logo-Big](logo.jpeg)
@@ -30,23 +30,9 @@ We know some bugs (Windows use)
 
 ![Our Team](https://i.ibb.co/8jR3Fcv/logo.png)
 
-- AssaEmpire (Owner/Programmer)
-- SavannahCat (Github, Reddit, Youtube and Twitter Support)
-- XBronx (Programmer)
-- K4L (Youtube Supporter)
+- TrickyTinkets 
 
 Thank u all <3
-
-
-
-## **Our YT Videos** 
-
-K4L: https://www.youtube.com/watch?v=7glaF_gIDj8&t=42s
-
-
-SavannahCat: https://www.youtube.com/watch?v=oI8YoWaqALE&t=3s
-
-              https://www.youtube.com/watch?v=nXHcnsj1I3A
 
 ## 💡 Installation.
 
