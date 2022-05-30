@@ -115,9 +115,9 @@ MIT License
 
 BOT is free-to-use, but you are welcome to appreciate my work ☺️
 
-ETH - 0x0A4A569cfA700Fc2A1d54974712716E537C169ff
+Please donate
 
-BNB - 0x0A4A569cfA700Fc2A1d54974712716E537C169ff  
+BNB - 0x47fD9C1111a821Fa5485c51b6c7366a1f7a95DC2
   
 Thank's to Empaticgame! spend: 0,8 BNB ❤️
 
